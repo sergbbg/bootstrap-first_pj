@@ -1,0 +1,41 @@
+.carousel-item{
+  height: 600px;
+}
+
+
+.col-bg{
+  background-image: url(imades/Rectangle\(1\).png) ;
+}
+ 
+.text{
+  
+font-size: 18px;
+font-weight: 500;
+line-height: 25px;
+
+text-align: left;
+
+}
+/*
+.backimage{
+  background-image: url(imades/Rectangle\(1\).png);
+
+  }
+  
+@media(min-width:800px){
+
+
+.backimage{
+  background-image: url(imades/Rectangle\(1\).png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 500px;
+}} */
+.block_two{
+  height: 800px;
+  } 
+@media(min-width:800px){
+ .block_two{
+ height: 800px;
+ } 
+}
